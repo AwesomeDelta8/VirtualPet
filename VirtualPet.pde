@@ -64,6 +64,6 @@ void draw () {
   rotate(0.8);
   ellipse(200,150,150,90);
   rotate(-0.8);
-  ellipse(560,450,150,90);
+  ellipse(570,450,150,90);
   
 }
